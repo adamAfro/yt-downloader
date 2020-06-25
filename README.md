@@ -12,4 +12,4 @@ Przykładowo: `./exec.py -download https://youtu.be/9cX17CeYKt0 -into Jumper -fr
 
 W pliku „config.yaml” znajduje się konfiguracja, która określa folder gdzie mają być pobierane pliki. Jeśli go nie ma, skrypt pobierze wideo do aktywnej lokacji
 
-Przykładowa konfiguracja w pliku: `directory: /home/adam/Pobrane`
+Przykładowa konfiguracja: `directory: /home/adam/Pobrane`
