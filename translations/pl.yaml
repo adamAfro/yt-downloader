@@ -1,0 +1,5 @@
+url-hint: "URL strony z filmem"
+output-hint: "Nazwa nowego pliku z filmem"
+startT-hint: "Początek filmu"
+time-hint: "Czas trwania filmu"
+prog-description: "Pobiera film z youtube z wybranego przedziału czasowego"

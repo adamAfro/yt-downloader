@@ -1,0 +1,5 @@
+url-hint: "URL of the page with video"
+output-hint: "Output file name"
+startT-hint: "Time of start of downloading"
+time-hint: "Time of downloading"
+prog-description: "Downloads video from youtube website from given timespan"
